@@ -1,4 +1,4 @@
-# 🧠 Social Media Risk Detection Pipeline
+# 🧠 Bully Barrier - Social Media Risk Detection Pipeline
 
 ## Detecting False Positives and False Negatives in Self-Harm and Abuse Posts
 
